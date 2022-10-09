@@ -1,0 +1,13 @@
+ Cuma Mau Bilang Jangan Lupa Like Coment And Subscribe Biar Gw Lebih Semangat Buat Copas² Fitur Yg Lain Awikwok
+
+ Ganti Nomor Owner Di Config.js
+ Tambah Menu Di message/msg.js
+ Ganti Tampilan Menu Di message/help.js
+ Lu Recode Serah Lu Dah
+
+Thx Buat
+ - Irfan/Rtwone [ Base ]
+ - Crisstian ID [ Created ]
+ - Tsuyuzaki [ Recode ]
+ - Penyedia Rest Api 
+ - Istri Anime

@@ -1,0 +1,19 @@
+{
+  "ownerNumber": ["628978378100@s.whatsapp.net"], 
+  "ownerName": ["Tsuyuzaki"], 
+  "botName": "Misaki MD", 
+  "youtubeOwner": "https://youtube.com/channel/UCcI5hJoUd29I_OosaOB_GQw", 
+  "web": "https://lolhuman.xyz/", 
+  "donasiQris": "https://i.ibb.co/CVMrYwV/Qris-Tsuyuzaki.jpg",
+  "donasiPulsa": "0895638102488", 
+  "footer": "© Tsuyuzakiメ", 
+  "fake": "© Create Misaki MD", 
+  "sessionName": "misaki",
+  "pathimg": "./media/misaki.jpg",
+  "gamewaktu": 90,
+  "limitCount": 30,
+  "gcount": {
+	"prem": 99999,
+	"user": 20
+  }
+}
