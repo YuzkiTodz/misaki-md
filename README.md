@@ -1,4 +1,4 @@
-</p>
+No</p>
 <p align="center">
 <a href="#"><img title="HITOMI BOT" src="https://img.shields.io/badge/HITOMI BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
@@ -56,3 +56,4 @@ npm start
 # Thanks to
 - rtwone / Irfan
 - Christian ID
+- Tsuyuzaki Hayase
